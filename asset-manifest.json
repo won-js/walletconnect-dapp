@@ -1,0 +1,15 @@
+{
+  "main.js": "/walletconnect-dapp/static/js/main.009c777d.chunk.js",
+  "main.js.map": "/walletconnect-dapp/static/js/main.009c777d.chunk.js.map",
+  "static/js/1.736b7629.chunk.js": "/walletconnect-dapp/static/js/1.736b7629.chunk.js",
+  "static/js/1.736b7629.chunk.js.map": "/walletconnect-dapp/static/js/1.736b7629.chunk.js.map",
+  "runtime~main.js": "/walletconnect-dapp/static/js/runtime~main.3dc5a7f0.js",
+  "runtime~main.js.map": "/walletconnect-dapp/static/js/runtime~main.3dc5a7f0.js.map",
+  "static/media/walletconnect-banner.png": "/walletconnect-dapp/static/media/walletconnect-banner.e1cb8d21.png",
+  "static/media/erc20.svg": "/walletconnect-dapp/static/media/erc20.90607899.svg",
+  "static/media/eth.svg": "/walletconnect-dapp/static/media/eth.42bca731.svg",
+  "static/media/xdai.png": "/walletconnect-dapp/static/media/xdai.e37299a8.png",
+  "index.html": "/walletconnect-dapp/index.html",
+  "precache-manifest.c3b519606d125aabc7d61e23ed91fedc.js": "/walletconnect-dapp/precache-manifest.c3b519606d125aabc7d61e23ed91fedc.js",
+  "service-worker.js": "/walletconnect-dapp/service-worker.js"
+}
